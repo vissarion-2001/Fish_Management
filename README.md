@@ -6,6 +6,7 @@ Project on Fish Management Mytikas Aitoloakarnanias
 
 ## Prerequisities 
 
-'''
+```
 pip install python==3.12
-'''
+```
+
